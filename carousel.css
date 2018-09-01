@@ -97,9 +97,10 @@ body {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
-
+/* 
+ * 	768 Breakpoint 
+ */
 @media (min-width: 768px) {
-  /* Navbar positioning foo */
   .navbar-wrapper {
     margin-top: 20px;
   }
@@ -129,6 +130,9 @@ body {
   }
 }
 
+/*
+ * 992 Breakpoint
+ */
 @media (min-width: 992px) {
   .featurette-heading {
     margin-top: 75px;
